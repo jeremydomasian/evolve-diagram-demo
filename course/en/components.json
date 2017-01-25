@@ -1,0 +1,198 @@
+[
+  {
+    "_id": "5888c67207c9efc474160857",
+    "_courseId": "58826ea25798c9dd4d71c626",
+    "_parentId": "5888c5ab07c9efc474160856",
+    "_layout": "full",
+    "_component": "hotgraphic",
+    "_items": [
+      {
+        "_graphic": {
+          "src": "course/en/assets/images/5888de8d07c9efc474160868/small/a95c5c7f776b5508a8d6944289a9ad82.png"
+        },
+        "_itemGraphicLayout": "right",
+        "_left": 21.90366972477065,
+        "_top": 71.10091743119266,
+        "itemIndex": 0,
+        "_id": "5888c83007c9efc47416085a",
+        "title": "Yoshi's Island",
+        "body": "<p>Yoshi's home and birthplace.</p>"
+      },
+      {
+        "_itemGraphicLayout": "right",
+        "_left": 53.89908256880736,
+        "_top": 86.08562691131499,
+        "title": "Chocolate Island",
+        "_id": "5888dd6b07c9efc474160863",
+        "itemIndex": 1
+      },
+      {
+        "_itemGraphicLayout": "right",
+        "_left": 77.29357798165137,
+        "_top": 42.6605504587156,
+        "itemIndex": 2,
+        "_id": "5888ddb307c9efc474160864",
+        "title": "Forest of Illusion"
+      },
+      {
+        "_itemGraphicLayout": "right",
+        "_left": 43.00458715596331,
+        "_top": 11.162079510703364,
+        "title": "Vanilla Secret",
+        "_id": "5888ddd507c9efc474160865",
+        "itemIndex": 3
+      },
+      {
+        "_itemGraphicLayout": "right",
+        "_left": 27.52293577981652,
+        "_top": 43.11926605504588,
+        "itemIndex": 4,
+        "_id": "5888ddf607c9efc474160866",
+        "title": "Donut Plains"
+      }
+    ],
+    "_popupCloseButton": "Close",
+    "_isQuestionType": false,
+    "__v": 0,
+    "displayTitle": "",
+    "body": "<p>Explore the world of Super Mario World!</p>",
+    "instruction": "Click on the + symbols to learn more about each region.",
+    "_graphic": {
+      "src": "course/en/assets/images/5888c85707c9efc47416085b/large/d065f07b441ab403463d62132e23c701.jpg"
+    },
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Interactive Map",
+    "_type": "component",
+    "_courseOrder": "0-0-0-0"
+  },
+  {
+    "_id": "58826fde5798c9dd4d71c62d",
+    "_courseId": "58826ea25798c9dd4d71c626",
+    "_parentId": "58826f5b5798c9dd4d71c62b",
+    "_layout": "full",
+    "_component": "textReveal",
+    "_items": [
+      {
+        "_graphic": {
+          "caption": "Classic Yoshi",
+          "src": "course/en/assets/images/5888df0307c9efc47416086b/small/496562b7947f92966fd25664e320bb34.gif"
+        },
+        "_shouldSetCompletion": false,
+        "text": "<p>The default Yoshi. Like the other Yoshis, it is able to eat many kinds of enemies and jump on spiked enemies without taking harm as well as walk across Munchers. They can also utilize Shells for special powers, but unlike the other Yoshis, depend on the color of the Shell but not a special Yoshi power to pair with it.</p>",
+        "title": "Green Yoshi",
+        "_id": "588270365798c9dd4d71c62e",
+        "itemIndex": 0
+      },
+      {
+        "_graphic": {
+          "caption": "",
+          "src": "course/en/assets/images/5888dffd07c9efc474160871/small/8181845437aea4464ac0ef39047aa6cb.png"
+        },
+        "_shouldSetCompletion": false,
+        "text": "<p>A Yoshi that spits out any colored Shell in the form of three fireballs.<br></p>",
+        "title": "Red Yoshi",
+        "itemIndex": 1,
+        "_id": "588270d65798c9dd4d71c631"
+      },
+      {
+        "_graphic": {
+          "caption": "",
+          "src": "course/en/assets/images/5888e0cf07c9efc474160874/small/06174ed5ded9e0eb85f39d49abef37f9.png"
+        },
+        "_shouldSetCompletion": false,
+        "itemIndex": 2,
+        "_id": "588271795798c9dd4d71c634",
+        "title": "Blue Yoshi",
+        "text": "<p>A Yoshi that flies as long as a Shell is in its mouth.</p>"
+      }
+    ],
+    "_shouldCenterCaption": false,
+    "_shouldDisplayCaptionOverGraphic": false,
+    "_shouldShowMarking": false,
+    "_isExploratoryQuestion": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_showNavOnTop": false,
+    "displayTitle": "Colored Yoshis",
+    "body": "<p>Let's learn about the different Yoshis!</p>",
+    "instruction": "Click on each image to learn more",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Colored Yoshis",
+    "_type": "component",
+    "_courseOrder": "0-0-1-0"
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "_id": "5888c5ab07c9efc474160856",
+    "_courseId": "58826ea25798c9dd4d71c626",
+    "_parentId": "58826f5b5798c9dd4d71c62a",
+    "_sortOrder": 0,
+    "__v": 0,
+    "displayTitle": "Overworld Map",
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_singleWidthComponentLayout": "default",
+    "_classes": "",
+    "title": "Map",
+    "_type": "block",
+    "_courseOrder": "0-0-0"
+  },
+  {
+    "_id": "58826f5b5798c9dd4d71c62b",
+    "_courseId": "58826ea25798c9dd4d71c626",
+    "_parentId": "58826f5b5798c9dd4d71c62a",
+    "_sortOrder": 1,
+    "__v": 0,
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_singleWidthComponentLayout": "default",
+    "_classes": "",
+    "title": "Characters",
+    "_type": "block",
+    "_courseOrder": "0-0-1"
+  }
+]

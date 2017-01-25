@@ -1,0 +1,72 @@
+[
+  {
+    "_id": "58826f5b5798c9dd4d71c62a",
+    "_courseId": "58826ea25798c9dd4d71c626",
+    "_parentId": "58826f5b5798c9dd4d71c629",
+    "_sortOrder": 0,
+    "__v": 0,
+    "displayTitle": "Introduction",
+    "body": "<p>This is the home for all the Super Mario World hot tips and tricks.</p>",
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_contentLocking": {
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_lockIcon": "lock",
+      "_lockedText": "This article is locked",
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "component",
+      "_isEnabled": false
+    },
+    "_bookShelf": {
+      "_tracking": {
+        "_event": "tracker:saveSession",
+        "_isEnabled": true
+      },
+      "_isShelved": false,
+      "_isEnabled": false
+    },
+    "_dividers": {
+      "_after": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        }
+      },
+      "_before": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        }
+      }
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_isAlternative": false,
+    "_classes": "default",
+    "title": "Introduction",
+    "_type": "article",
+    "_courseOrder": "0-0"
+  }
+]

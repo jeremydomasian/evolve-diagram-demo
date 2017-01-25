@@ -1,0 +1,110 @@
+[
+  {
+    "_id": "58826f5b5798c9dd4d71c629",
+    "_courseId": "58826ea25798c9dd4d71c626",
+    "_parentId": "58826ea25798c9dd4d71c626",
+    "_sortOrder": 0,
+    "__v": 0,
+    "displayTitle": "Getting Started",
+    "_swipeMenu": {
+      "_heroImage": {
+        "_contentWidth": 70,
+        "textAlignment": "left",
+        "layout": "center"
+      },
+      "_shouldDisableItemScaling": false,
+      "_shouldDisableDetailOnHover": false,
+      "_mobileBackgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_backgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      }
+    },
+    "_standardMenu": {
+      "_mobileBackgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_backgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_heroImage": {
+        "_contentWidth": 70,
+        "textAlignment": "left",
+        "layout": "center"
+      }
+    },
+    "_mapMenu": {
+      "_position": {
+        "_top": 0,
+        "_left": 0
+      }
+    },
+    "_coverMenu": {
+      "_coverButtonText": "View"
+    },
+    "_boxMenu": {
+      "_mobileBackgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_backgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_heroImage": {
+        "_contentWidth": 70,
+        "textAlignment": "left",
+        "layout": "center"
+      }
+    },
+    "_contentLocking": {
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "contentObject",
+      "_isEnabled": false
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_fixed": false,
+      "_position": "center",
+      "_size": "cover"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_fixed": false,
+      "_position": "center",
+      "_size": "cover"
+    },
+    "_heroImage": {
+      "_contentWidth": 70,
+      "textAlignment": "left",
+      "layout": "center",
+      "_isEnabled": false
+    },
+    "_hidePageHeader": false,
+    "_categories": [],
+    "durationLabel": "Duration",
+    "linkText": "View",
+    "title": "Course Overview Diagram",
+    "_type": "page",
+    "_courseOrder": "0"
+  }
+]
